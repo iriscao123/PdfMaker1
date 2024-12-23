@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Pdf生成器</string>
+    <string name="hint">请输入单词</string>
+
+
+    <string name="chinese">中文</string>
+    <string name="sucai">速才</string>
+
+
+
+    <string name="welcome">欢迎来到南开学习园地</string>
+    <string name="studyGarden">南开学习园地</string>
+    <string name="studyAssistant">学习小助手</string>
+    <string name="motto">允公允能 日新月异</string>
+    <string name="charactic">中学里的大学</string>
+
+    <string name="username">nankai</string>
+
+    <string name="materials">课件</string>
+    <string name="smartNote">课堂笔记</string>
+    <string name="wordPractice">单词训练</string>
+    <string name="problem">试卷/笔记整理</string>
+    <string name="pictureBooks">绘本</string>
+    <string name="someMagzines">外刊</string>
+    <string name="reading">阅读拓展</string>
+    <string name="textBook">电子课本</string>
+    <string name="dictionary">字典小工具</string>
+    <string name="download">资料下载</string>
+
+    <string name="welcomeToWordPractice">欢迎来到单词练习</string>
+    <string name="WordLearn">单词学习</string>
+    <string name="easyLearn">轻轻松松背单词</string>
+    <string name="chineseMeaning">中文意思</string>
+    <string name="showChinese">显示释义</string>
+    <string name="showWrongWord">显示错题</string>
+    <string name="showAllWords">所有单词</string>
+    <string name="viewWords">单词浏览</string>
+
+    <string name="InputEnglishHint">请输英文</string>
+    <string name="InputChineseHint">请输中文</string>
+    <string name="InputWord">请输入</string>
+
+    <string name="RandomChinese">随机中文</string>
+    <string name="RandomEnglish">随机英文</string>
+
+    <string name="EnglishToChinese">英译汉</string>
+    <string name="EnglishToChineseWrong">英译汉错题</string>
+    <string name="EnglishToChineseRetry">英译汉重练</string>
+    <string name="ChineseToEnglish">汉译英</string>
+    <string name="ChineseToEnglishWrong">汉译英错题</string>
+    <string name="ChineseToEnglishRetry">汉译英重练</string>
+    <string name="Quiz">单词小Quiz</string>
+    <string name="QuizRetry">Quiz重练</string>
+
+
+    <string name="remove">移除错题本</string>
+    <string name="add">加入错题本</string>
+    <string name="RetryWrong"> 错题重练</string>
+
+    <string name="TABLE_WORDS">words</string>
+    <string name="TABLE_RECITE_CHINESE">reciteChinese</string>
+    <string name="TABLE_WRONG_RECITE">wrong_answers</string>
+    <string name="TABLE_WRONG_QUIZ">wrong_quiz</string>
+    <string name="TABLE_WRONG_RECITE_CHINESE">ReciteChineseWrong</string>
+
+    <string name="Column_ID">id</string>
+    <string name="Column_Name_Class">class</string>
+    <string name="Column_Name_English">english</string>
+    <string name="Column_Name_Chinese">chinese</string>
+
+    <string name="check">检查</string>
+    <string name="next">下一个</string>
+    <string name="RetureButton">返回</string>
+    <string name="noMoreWords">没有更多的单词了</string>
+    <string name="correct">正确</string>
+    <string name="search">搜索</string>
+
+    <string name="selectPictures">生成PDF文件</string>
+    <string name="camera">相机</string>
+</resources>
